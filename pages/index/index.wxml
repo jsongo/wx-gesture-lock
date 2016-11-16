@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="title">{{title}}</view>
+  <canvas canvas-id="canvasLock" class="mycanvas" bindtouchend="onTouchend"
+    bindtouchstart="onTouchstart" bindtouchmove="onTouchmove"></canvas>
+</view>

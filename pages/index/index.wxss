@@ -1,0 +1,11 @@
+
+.title {
+    text-align: center;
+    color: cornflowerblue;
+}
+.mycanvas {
+    width: 600rpx;
+    height: 600rpx;
+    margin: 30rpx auto;
+    border: 1px #f00 solid;
+}
