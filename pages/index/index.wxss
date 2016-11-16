@@ -1,11 +1,20 @@
 
+page {
+    background-color: #305066;
+}
+.reset {
+    color: #fff;
+    font-size: 24rpx;
+    text-align: right;
+    margin: 30rpx 20rpx;
+}
 .title {
     text-align: center;
-    color: cornflowerblue;
+    color: #22C3AA;
 }
 .mycanvas {
     width: 600rpx;
     height: 600rpx;
-    margin: 30rpx auto;
-    border: 1px #f00 solid;
+    margin: 100rpx auto;
+    background-color: #305066;
 }
